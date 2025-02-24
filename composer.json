@@ -20,13 +20,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Outl1ne\\NovaColorField\\": "src/"
+      "Davidcorreia\\NovaColorField\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Outl1ne\\NovaColorField\\ColorFieldServiceProvider"
+        "Davidcorreia\\NovaColorField\\ColorFieldServiceProvider"
       ]
     }
   },
