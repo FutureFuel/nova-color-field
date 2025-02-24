@@ -1,6 +1,6 @@
 <?php
 
-namespace Davidcorreia\NovaColorField;
+namespace FutureFuel\NovaColorField;
 
 use Exception;
 use Laravel\Nova\Fields\Field;
