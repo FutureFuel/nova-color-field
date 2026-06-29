@@ -23,7 +23,7 @@ Forked from [timothyasp/nova-color-field](https://github.com/timothyasp/nova-col
 
 ## Installation
 
-Install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
+Install the package into a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
 composer require outl1ne/nova-color-field
@@ -72,7 +72,7 @@ Color::make('Color')
 
 ### Palettes
 
-Adding custom pallette colors to the pickers can be done like so:
+Adding custom palette colors to the pickers can be done like so:
 
 ```php
 Color::make('Color')
